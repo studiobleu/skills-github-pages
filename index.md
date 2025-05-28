@@ -6,6 +6,7 @@ Interstice is a Chrome extension that transforms the interface of TikTok’s web
 
 
 **📌 What Interstice Does**
+
 Interstice modifies the TikTok web interface by injecting custom CSS and JavaScript. These modifications:
 - Remove or alter visually stimulating UI elements (e.g., like counters, autoplay, endless scroll)
 - Simplify the interface to encourage more mindful interaction
@@ -13,6 +14,7 @@ Interstice modifies the TikTok web interface by injecting custom CSS and JavaScr
 
 
 **🔍 What Data We Access**
+
 Interstice does **not** collect, log, store, or transmit any of your personal data. Specifically, we:
 - Do not access or store any personal information (e.g. name, email, IP)
 - Do not track user activity, such as clicks, mouse movement, or scrolling
@@ -22,6 +24,7 @@ The only access Interstice requests is to the website content of TikTok, which i
 
 
 **🔐 Permissions Justification**
+
 To deliver this functionality, Interstice uses the following Chrome extension permissions:
 - host_permissions: https://www.tiktok.com/* – so it can access and restyle the TikTok page
 - activeTab – to allow the extension to apply its modifications only when the user interacts with the TikTok tab
@@ -30,6 +33,7 @@ These permissions are used strictly for the purpose of visual transformation and
 
 
 **🚫 Data Sharing & Third Parties**
+
 We do not sell, rent, or share any data with third parties. Since Interstice does not collect or store data, there is nothing to share.
 
 
