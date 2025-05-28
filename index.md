@@ -34,7 +34,6 @@ We do not sell, rent, or share any data with third parties. Since Interstice doe
 
 
 **✅ Your Consent**
-
 By using Interstice, you acknowledge and agree that the extension functions entirely locally on your device, without transmitting data elsewhere.
 
 **📬 Contact**
